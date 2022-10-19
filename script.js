@@ -7,7 +7,7 @@ const btn_getQ = document.getElementById('cotizar')
 const p_payment = document.getElementById('mensualidad')
 
 let rate10 = 11.99
-let rate30 = 10.75
+let rate30 = 10.99
 let price
 let downpayment
 let periods
