@@ -6,8 +6,8 @@ const i_periods = document.getElementById('plazo')
 const btn_getQ = document.getElementById('cotizar')
 const p_payment = document.getElementById('mensualidad')
 
-let rate10 = 11.99
-let rate30 = 10.99
+let rate10 = 12.49
+let rate30 = 11.49
 let price
 let downpayment
 let periods
